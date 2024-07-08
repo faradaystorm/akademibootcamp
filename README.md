@@ -21,8 +21,9 @@ Movie Box uygulamamız insanların izlediği ve izlemek istedikleri filmleri, di
 * Sinema severler
 * Dizi severler
 * 15 - 65 yaş arası kullanıcılar
+  
 # Product Backlog URL
-https://miro.com/app/board/uXjVOSSCpsI=/
+(https://trello.com/b/3lvQJfWu)
 # Sprint 1
 # Sprint Hedefi
 Sprint 1'de, Movibox isimli dizi-film uygulamasının temel işlevselliklerinin oluşturulması ve belirlenen User Story'lerin tamamlanması hedeflenmiştir.
@@ -48,3 +49,19 @@ Daily Scrum toplantıları, zamansal sebeplerden ötürü Slack üzerinden yapı
 Daily Scrum toplantısı örneği, jpeg veya word formatında Readme'de paylaşılmıştır.
 # Sprint 1 Daily Scrum Chats
 Daily Scrum toplantılarının Slack üzerinden nasıl yapılacağını gösteren örnek, Readme dosyasında mevcuttur.
+# Sprint Retrospective:
+Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alındı
+Sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
+Unit test'lere daha çok önem verilmeli 
+# Sprint Review: 
+Alınan kararlar: Veritabanı oluşturulacak. Ekstra koyulması gereken özellikler belirlenmiştir. 
+# Sprint Review katılımcıları: Esma Şen
+
+
+# Sprint Board
+![githubb](https://github.com/faradaystorm/akademibootcamp/assets/96180440/500e7ee2-a47e-4e8a-8a02-088a92ccfb30)
+
+# Ürün durumu
+![ürün](https://github.com/faradaystorm/akademibootcamp/assets/96180440/9a6b210c-60f2-40cf-90bd-12d5cd9dffe1)
+
+
