@@ -65,3 +65,26 @@ Alınan kararlar: Veritabanı oluşturulacak. Ekstra koyulması gereken özellik
 ![ürün](https://github.com/faradaystorm/akademibootcamp/assets/96180440/9a6b210c-60f2-40cf-90bd-12d5cd9dffe1)
 
 
+# Sprint 2
+# Ekran tasarımlarında güncellemeler yapıldı
+
+# Sprint 2 Ekranlar
+* Kullanıcı profil:
+
+* Anasayfa
+* Dizi sayfası
+* Yorum sayfası
+# Sprint 2 için Sprint Board
+![346602426-500e7ee2-a47e-4e8a-8a02-088a92ccfb30](https://github.com/user-attachments/assets/b4904192-2e00-4c44-969a-3cf999520074)
+
+Trello link https://trello.com/b/3lvQJfWu
+# Sprint Notları:
+Ekran tasarımı güncellendi.
+UYgulamanın daha kullanışlı olması nasıl sağlanır planlandı.
+Günlük toplantılar yapıldı.
+Sprint Review:
+KAtılımcılar: Esma Şen  
+2. Sprint tamamlandı.
+Sprint Retrospective:
+Ekip arkadaşlarıma ulaşamadığım için uygulamayı tek başıma yapmaya karar verdim.
+3. Sprintte uygulama testlerini ve ui testlerini yapmayı ve eksiklikleri tamamlamaya karar verdim.
